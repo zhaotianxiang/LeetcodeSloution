@@ -8,7 +8,7 @@
  */
 public class Main {
     public static void main(String [] args){
-        Solution sloution = new Solution();
+        SolutionImprove sloution = new SolutionImprove();
         String s = "pwwkew";
         int count = sloution.lengthOfLongestSubstring(s);
         int x = count;
